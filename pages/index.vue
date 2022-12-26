@@ -8,6 +8,10 @@ const items = [
     title: "Tify",
     to: "tify",
   },
+  {
+    title: "Custom OpenSeaDragon Viewer",
+    to: "custom-osd",
+  },
 ];
 </script>
 <template>

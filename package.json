@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@digirati/canvas-panel-web-components": "^1.0.56",
+    "@nakamura196/osd-custom-viewer": "^2.16.0",
     "openseadragon": "^4.0.0",
     "sass": "^1.57.1",
     "tify": "^0.28.1",
