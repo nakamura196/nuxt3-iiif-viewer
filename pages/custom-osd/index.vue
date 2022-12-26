@@ -57,6 +57,7 @@ const ex03 = () => {
           @updated="updatePage"
           :manifest="manifest"
           :regions="regions"
+          prefixUrl="/nuxt3-iiif-viewer/images/"
         />
       </v-col>
       <v-col>
